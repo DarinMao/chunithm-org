@@ -1,0 +1,67 @@
+site_name: Chunithm English Guide
+site_url: https://chunithm.org
+site_description: An English guide to Chunithm, a rhythm-based arcade game by SEGA
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/logo.png
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - toc.integrate
+    - toc.follow
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+markdown_extensions:
+  - admonition
+  - pymdownx.blocks.caption
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - attr_list
+  - toc:
+      permalink: ¶
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - search
+extra:
+  manifest: manifest.webmanifest
+extra_css:
+  - stylesheets/mitsuyoshi.css
+nav:
+  - Home: index.md
+  - Basic Game Operation:
+    - Introduction: basic/intro.md
+    - Gameplay and Note Types: basic/gameplay.md
+    - Judgements: basic/judgements.md
+    - Timing Windows: basic/timing.md
+    - Score Evaluation: basic/evaluation.md
+    - Difficulty and Levels: basic/difficulty.md
+    - Song Categories: basic/categories.md
+    - Game Screen: basic/gamescreen.md
+    - Map System: basic/maps.md
+    - Characters and Skills: basic/characters.md
+    - Cosmetics and Reward Systems: basic/cosmetics.md
+    - Matching: basic/matching.md
+    - Settings: basic/settings.md
+  - Intermediate Progression:
+    - Rating and Meta-Progression: intermediate/rating.md
+    - Skill Areas and Terminology: intermediate/skills.md
+    - Hand/Finger Techniques: intermediate/tech.md
+  - Advanced Play:
+    - Rating Calculator: advanced/calc.md
+    - Rainbow Rating Table: advanced/rainbow.md
+    - Recommended Charts: advanced/recommended.md
+    - Advanced Patterns: advanced/patterns.md
+    - "\"Cheating\"": advanced/cheating.md

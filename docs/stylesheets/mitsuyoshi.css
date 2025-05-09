@@ -1,0 +1,23 @@
+:root {
+    --md-admonition-icon--mitsuyoshi: url(/assets/mitsuyoshi.svg);
+}
+
+.md-typeset .admonition.mitsuyoshi,
+.md-typeset details.mitsuyoshi {
+  border-color: rgb(197, 37, 46);
+}
+.md-typeset .mitsuyoshi > .admonition-title,
+.md-typeset .mitsuyoshi > summary {
+  background-color: rgba(197, 37, 46, 0.1);
+  padding-top: 0.7rem;
+  padding-bottom: 0.6rem;
+  padding-left: 2.6rem;
+}
+.md-typeset .mitsuyoshi > .admonition-title::before,
+.md-typeset .mitsuyoshi > summary::before {
+  background-image: url(/assets/mitsuyoshi.png);
+  background-size: cover;
+  mask-image: unset;
+  height: 1.5rem;
+  width: 1.5rem;
+}

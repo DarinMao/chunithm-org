@@ -12,4 +12,8 @@ The image below is a quick visual guide to how the chart constants were adjusted
 
 ![Chunithm NEW level adjustments](images/new-adjust.png)
 
+**LUMINOUS+**: Ultimas, previously relegated to their own folder, are now selectable as the 5th difficulty of a given song if applicable. For instance, you can pick them from genre or difficulty folders.
+
+![Chunithm LUMI+ Ultima Change](images/diff-ultima.png)
+
 **VERSE**: charts near the upper end of the 14+ folder have had their chart constants increased, such that the new difficulty ceiling is 15+ (following the introduction of Forsaken Tale MAS in LUMINOUS PLUS). New chart constants can be monitored at this [Google Sheet](https://docs.google.com/spreadsheets/d/1NTGkrOoLdzOoaYyz7d4vDT3cW2Q6lZfoc1nvd7nlNLE/edit?gid=1971412612#gid=1971412612), although it is in the process of being updated.

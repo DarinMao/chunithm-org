@@ -217,6 +217,32 @@ A table detailing benchmark scores required to reach Possession thresholds acros
 
 ![OP score table](images/op-table.png)
 
+### Overpower Calculation/Display (~LUMINOUS)
+
+The Overpower tracking system was overhauled in accordance with the Ultima system changes made to this version. Pre-LUMINOUS+, overpower was calculated for every **individual chart**, and the player would have been able to see their Overpower metrics for whatever folder and difficulty was active at the time. For instance, a score on an Expert chart would contribute to Expert OP% but would not contribute to possession (which only considered Master OP and Ultima OP). 
+
+Note how the Overpower value displayed is different between Expert difficulty and Master difficulty.
+
+![Lumi Exp OP](images/OP-lumi-1.png)
+![Lumi Mas OP](images/OP-lumi-2.png)
+
+### Overpower Calculation/Display (LUMINOUS+~)
+
+Overpower metrics are now calculated for the **song**, regardless of the difficulty. For each song, the score that would result in the **highest OP** value contributes to Total OP. This is typically the score on the highest played difficulty, but in some instances a very high score on a lower difficulty chart may provide more OP than a poor score on a higher difficulty chart. 
+
+The Total OP is now calculated from the theoretical value (AJC) on the highest available difficulty across all songs in the folder.
+
+![Lumi+ OP Change Description](images/OP-lumi-plus-desc.png)
+
+Folders will likewise display the **Total OP** gained on the folder instead of being bound by the difficulty. The two photos below show the same Overpower number and OP%, but different clear lamps.
+
+![Lumi+ Exp OP](images/OP-lumi-plus-1.png)
+![Lumi+ Mas OP](images/OP-lumi-plus-2.png)
+
+Additionally, the Random tab in song select will now display **Total OP and OP%**. The rank/combo lamps displayed in this view will change with the selected difficulty.
+
+![Lumi+ Mas Total OP](images/OP-lumi-plus-all.png)
+
 Details about overpower breakdown (including the calculation formula) can be found on [wikiwiki](https://wikiwiki.jp/chunithmwiki/%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BBOVER%20POWER).
 
 ## Possession

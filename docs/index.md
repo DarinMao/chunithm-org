@@ -114,3 +114,4 @@ Shoutouts as well to Yume Arcade in Toronto!
 - 2025-03-03: clarified wording in 'Rating Formula' section
 - 2025-03-24: added a picture for VERSE ascending/descending sort option
 - 2025-04-16: updated World's End markings
+- 2025-05-13: updated information on Ultima difficulty, Overpower

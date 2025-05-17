@@ -69,6 +69,7 @@ As more stars are acquired, the rank of the Player Trophy will increase at given
 **VERSE**: "premium" titles based on the versions of Chunithm were introduced. These special titles require completion of **all difficulties** (except Ultima) of **all charts** within the version folder. There are three tiers for these titles, all **rank S** or above (Spirit), all **rank SSS** or above (Tribute), and all **All Justice** (Legend).
 
 ![VERSE folder titles](images/verse-titles-1.png)
+
 ![All Version Titles](images/title-plate-graphic.png)
 
 Additionally, you may now equip up to **three** titles on your profile. In gameplay, these titles will rotate in sequence by fading in and out with each other.

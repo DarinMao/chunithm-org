@@ -27,13 +27,13 @@ Limit Break Requirements (source: [wikiwiki](https://wikiwiki.jp/chunithmwiki/%E
 | 105 - 125       | 5                                        | 62                        |
 | 125 - 150       | 6                                        | 92                        |
 
-Character skills are split into 5 main categories:
+Character skills used to be split into 5 main categories, now only Boost and Danger are used: 
 
 | Skill Type                    | Icon                                                                                                                                                                                                                                                                               |
 | :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Matching (~**PARADISE LOST**) |                                                                                                                                                                                                                                                                                    |
-| Support                       | ![Support skill](images/skills/support.png){: style="width: 100px"}                                                                                                                                                                                                                |
-| Defense                       | ![Guard skill](images/skills/guard.png){: style="width: 100px"}                                                                                                                                                                                                                    |
+| Support (~**LUMINOUS+**)      | ![Support skill](images/skills/support.png){: style="width: 100px"}                                                                                                                                                                                                                |
+| Defense (~**LUMINOUS+**)      | ![Guard skill](images/skills/guard.png){: style="width: 100px"}                                                                                                                                                                                                                    |
 | Boost                         | ![Boost skill](images/skills/boost.png){: style="width: 100px"}![Combo skill](images/skills/combo.png){: style="width: 100px"}                                                                                                                                                     |
 | Danger                        | ![Judge skill](images/skills/judge.png){: style="width: 100px"}![Emblem skill](images/skills/emblem.png){: style="width: 100px"}![Absolute+ skill](images/skills/absolute+.png){: style="width: 100px"}![Catastrophy skill](images/skills/catastrophy.png){: style="width: 100px"} |
 
@@ -47,9 +47,9 @@ In Chunithm NEW and beyond, obtaining and leveling characters will reward you **
 
 The specific values and formulas that drive the map clear system are outside of the scope of this guide and people seeking more information should check the jp [wiki](https://gamerch.com/chunithm/entry/490095).
 
-## Skill Table (SUN+ ~ LUMINOUS+)
+## Skill Tables 
 
-### Version-Dependent Skills
+### Version-Dependent Skills (SUN+ ~ LUMINOUS+)
 
 The following is a skill table for skills that reward skill frames. All danger skills have a certain threshold of notes that, once met, will force quit the chart. Specific information about each skill can be read about on [wikiwiki (jp)](https://wikiwiki.jp/chunithmwiki/%E3%82%B9%E3%82%AD%E3%83%AB%E6%AF%94%E8%BC%83%28NEW%EF%BD%9E%29).
 
@@ -72,11 +72,21 @@ The following is a skill table for skills that reward skill frames. All danger s
 
 Clearing with different skills will reward different skill frames, in order of highest priority (hardest skill). More details are in the Chart Clear Indicators section below.
 
-Certain skills are rotated out for others in certain versions, but in general the whole set of skills will largely function the same regardless of version.
+### Version-Dependent Skills (VERSE~)
 
-**VERSE**: All previous version skills will be deleted and replaced. Attack Guilty is set to be removed for good, whereas other skills will be renamed and simplified:
+| Skill Name                                 | Icon                                                                        | Description                                                     | Force Quit Threshold |
+| :----------------------------------------- | :-------------------------------------------------------------------------- | :-------------------------------------------------------------- | :------------------- |
+| Gauge boost [NORMAL]                       | ![Boost skill](images/skills/vrs-1-boost.png){: style="width: 100px"}       | Gauge multiplier increase (175% base)                           | -                    |
+| Combo extend [NORMAL]                      | ![Combo skill](images/skills/vrs-2-combo.png){: style="width: 100px"}       | Bonus gauge every 100 combo (3500 base)                         | -                    |
+| Judgement [HARD]                           | ![Judge skill](images/skills/vrs-3-hard.png){: style="width: 100px"}        | Gauge multiplier increase (215% base)                           | 20 Miss              |
+| Over Judge [HARD]                          | ![Judge+ skill](images/skills/vrs-4-hard.png){: style="width: 100px"}       | Gauge multiplier increase (235% base)                           | 10 Miss              |
+| Sign of mourning [HARD]                    | ![Emblem skill](images/skills/vrs-5-hard.png){: style="width: 100px"}       | Bonus gauge for Justice Critical judgement (22.5 base)          | 300 Justice or below |
+| Sign of courage [BRAVE]                    | ![Emblem+ skill](images/skills/vrs-6-brave.png){: style="width: 100px"}     | Bonus gauge for Justice Critical judgement (32.5 base)          | 150 Justice or below |
+| Jester's Madness [ABSOLUTE]                | ![Absolute+ skill](images/skills/vrs-7-abs.png){: style="width: 100px"}     | Bonus gauge for Justice Critical judgement (52.5 base)          | 50 Justice or below  |
+| Creation [CATASTROPHY]                     | ![Catastrophy skill](images/skills/vrs-8-cts.png){: style="width: 100px"}   | Gauge multiplier increase (360% base)                           | 10 Justice or below  |
 
-- EMBLEM → HARD (20 miss, 10 miss, 300 justice)
+All previous version skills were deleted and replaced. Guard, Support, and Attack Guilty were permanently removed, other skills were renamed:
+- HARD/EMBLEM → HARD (20 miss, 10 miss, 300 justice)
 - ABSOLUTE → BRAVE (150 justice)
 - ABSOLUTE+ → ABSOLUTE (50 justice)
 
@@ -100,6 +110,15 @@ Songs will display a set of badges/indicators/frames based on the achievement of
 
 There are 4 standard clear indicators/frames:
 
+### Clear Lamps (SUN+ ~ LUMINOUS+)
+| Frame | Icon                                                                                                                                                                                                                                                                                                                                                                                                                                            | Description                                                                                                                                                                                                                                                                       |
+| :---- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Skill | ![Clear](images/clears/clear.png){: style="width: 100px"}![Hard](images/clears/hard.png){: style="width: 100px"}![Absolute](images/clears/absolute.png){: style="width: 100px"}![Absolute+](images/clears/absolute+.png){: style="width: 100px"}![Catastrophy](images/clears/catastrophy.png){: style="width: 100px"}                                                                                                                           | Rewarded based on the highest difficulty skill equipped Chunithm SUN PLUS~ **Clear**: any Defense/Support/Boost skill **Hard**: Judge/Judge+/Emblem skill **Absolute**: Absolute/Emblem+ skill **Absolute+**: Absolute+ skill **Catastrophy**: Catastrophy skill                  |
+| Rank  | ![Rank D](images/clears/rank-d.png){: style="width: 100px"}![Rank BBB](images/clears/rank-bbb.png){: style="width: 100px"}![Rank AA](images/clears/rank-aa.png){: style="width: 100px"}![Rank S](images/clears/rank-s.png){: style="width: 100px"}![Rank SS](images/clears/rank-ss.png){: style="width: 100px"}![Rank SSS](images/clears/rank-sss.png){: style="width: 100px"}![Rank SSS+](images/clears/rank-sss+.png){: style="width: 100px"} | Rewarded based on highest achieved rank Chunithm NEW~SUN PLUS **Grey** frame: D/C rank **Silver** frame: B/BB/BBB rank **Gold** frame: A/AA/AAA rank **Platinum** frame: S/S+/SS/SS+/SSS rank Chunithm LUMINOUS~ **Rainbow** frame: SSS+ rank                                     |
+| Combo | ![Full Combo](images/clears/fc.png){: style="width: 100px"}![All Justice](images/clears/aj.png){: style="width: 100px"}![All Justice Critical](images/clears/ajc.png){: style="width: 100px"}                                                                                                                                                                                                                                                   | Rewarded based on highest achieved combo status Chunithm NEW~SUN PLUS **Gold** frame: full combo **Platinum** frame: all justice Chunithm LUMINOUS~ **Rainbow** frame: all justice critical                                                                                       |
+| Chain | ![Full Chain](images/clears/fch.png){: style="width: 100px"}![Full Chain AJ](images/clears/fchaj.png){: style="width: 100px"}                                                                                                                                                                                                                                                                                                                   | Rewarded for matching play where all players maintain combo Chunithm PARADISE LOST~ **Gold** frame: full chain but the matching partner achieved full combo on an easier difficulty (the other player will receive a platinum frame) **Platinum** frame: full chain + all justice |
+
+### Clear Lamps (VERSE~)
 | Frame | Icon                                                                                                                                                                                                                                                                                                                                                                                                                                            | Description                                                                                                                                                                                                                                                                       |
 | :---- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Skill | ![Clear](images/clears/clear.png){: style="width: 100px"}![Hard](images/clears/hard.png){: style="width: 100px"}![Absolute](images/clears/absolute.png){: style="width: 100px"}![Absolute+](images/clears/absolute+.png){: style="width: 100px"}![Catastrophy](images/clears/catastrophy.png){: style="width: 100px"}                                                                                                                           | Rewarded based on the highest difficulty skill equipped Chunithm SUN PLUS~ **Clear**: any Defense/Support/Boost skill **Hard**: Judge/Judge+/Emblem skill **Absolute**: Absolute/Emblem+ skill **Absolute+**: Absolute+ skill **Catastrophy**: Catastrophy skill                  |

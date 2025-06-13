@@ -1,4 +1,4 @@
-# SEGA ID
+# Registering a SEGA ID
 
 Even though it is not necessary to have a SEGA ID to play the game,
 creating one gives you access to things like:
@@ -12,11 +12,9 @@ creating one gives you access to things like:
 While you can use social media login (X/Twitter and Facebook) for CHUNITHM
 International, the Japanese version strictly requires a SEGA ID.
 
-## Registering a SEGA ID
+To begin, go to the [SEGA ID registration page](https://gw.sega.jp/gateway/create/).
 
-Go to the [SEGA ID registration page](https://gw.sega.jp/gateway/create/).
-
-### Submitting an email address
+## Submitting an email address
 On the first page, enter a valid email address (メールアドレス) in the white input
 area and then click the green button below to submit your email address.
 
@@ -26,7 +24,7 @@ You should have received a verification email with a link to
 `https://gw.sega.jp/gateway/auth/create/setting.html?key=...`. Follow this link
 to verify your email address and continue registration.
 
-### Fill in SEGA ID information
+## Fill in SEGA ID information
 
 Fill in the areas with your information:
 
@@ -55,7 +53,7 @@ you submitted. You can untick the checkbox to not receive them.
 
 Once you're done, select **Next (次へ)** to continue.
 
-### Confirm your information
+## Confirm your information
 
 After you submitted your information, you are given a last check to verify that the
 information you entered is correct.
@@ -75,7 +73,7 @@ SEGA ID.
 
 ![SEGA ID information verification page](./images/sega-id-verify-information.png)
 
-### Linking a card to your SEGA ID 
+## Linking a card to your SEGA ID 
 
 To link a card to your SEGA ID, navigate to the [Aime service site](https://my-aime.net/en/)
 and login with your newly-created SEGA ID. The website has an English version, so you 

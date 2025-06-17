@@ -118,4 +118,4 @@ Special thanks to kyleforkbomb for hosting and helping port the English Chunithm
 - 2025-04-16: updated World's End markings
 - 2025-05-13: updated information on Ultima difficulty, Overpower
 - 2025-05-18: updated Skill Tables, Chart Clear Indicators
-- 2025-06-16: added 'SEGA ID registration guide' (thanks beerpsi), updated acknowledgements
+- 2025-06-16: added 'Registering a SEGA ID' (thanks beerpsi), updated acknowledgements

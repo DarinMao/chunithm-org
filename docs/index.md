@@ -33,6 +33,8 @@ Shoutouts to lily (@lilyshy) for writing the [English O.N.G.E.K.I. Guide](https:
 
 Shoutouts as well to Yume Arcade in Toronto!
 
+Special thanks to kyleforkbomb for hosting and helping port the English Chunithm Guide to mkdocs on chunithm.org, and beerpsi for contributing.
+
 ## Resources
 
 ### Within this Guide
@@ -116,3 +118,4 @@ Shoutouts as well to Yume Arcade in Toronto!
 - 2025-04-16: updated World's End markings
 - 2025-05-13: updated information on Ultima difficulty, Overpower
 - 2025-05-18: updated Skill Tables, Chart Clear Indicators
+- 2025-06-16: added 'SEGA ID registration guide' (thanks beerpsi), updated acknowledgements

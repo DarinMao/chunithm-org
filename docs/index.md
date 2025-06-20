@@ -2,10 +2,13 @@
 ![Chunithm](chunithm.png)
 </figure>
 
-# Chunithm English Guide
+# Codex's Chunithm Resources
+- **Chunithm English Guide/Wiki** (here!)
+- **[The (Extended) Chunithm Tutorial v1.0](https://docs.google.com/document/d/1_AmKP9TX2mD0kS6HKmNxbXCThdJ5gx1kHGQvWLIOyI4/edit?usp=sharing)**
+- **[Chunithm Chart Compendium/Codex (VERSE) v2.65](https://docs.google.com/spreadsheets/d/1xP1huTSA-XWKZaDfmyNh-viRbUE777d2Rg54j5-2VAU/edit?usp=sharing)**
+- **[Kamaitachi Chunithm Questline v2.02](https://docs.google.com/spreadsheets/d/14BE1lDS04lZtms7PX53syK0rt6tVJ8-qdx6JDCtfxa4/edit?usp=sharing)**
 
-Want to learn ONGEKI instead? Check out [**Lily's ONGEKI guide**](https://docs.google.com/document/d/1HKCW7DWjYRnVjCmPzrQwDKC0wKTi41X-Y-dP1-ygliU/edit#heading=h.wgso0cpkyrl)!
-
+## Intro
 Hi! I'm Codex, a Canadian :flag_ca: Chunithm player. I've been playing Chunithm actively since 2021 and wanted to share some of my knowledge and experience with the wider English-speaking rhythm game community. I have also participated and placed in the podium for the following North American Chunithm tournaments: [Boston INNOVATED \-\[i1\]-](https://www.youtube.com/watch?v=S-rF0fIZZDk), [CHQ Arcade Championship](https://www.youtube.com/watch?v=B9dRyY-lnZo), and [Zenith Arcade Championship](https://www.youtube.com/watch?v=33eT3CksmLc).
 
 Chunithm is a rhythm-based arcade game that feels intuitive and easy to pick up, which is one of its biggest strengths as an arcade game. Some aspects of the game are not as easy to pick up on when starting, so I wanted to create a guide that will hopefully help new players get oriented and familiar players deepen their understanding of the game.
@@ -61,6 +64,8 @@ Special thanks to kyleforkbomb for hosting and helping port the English Chunithm
 - The YouTube channel [3F5N8F](https://www.youtube.com/@chunithm_humen/featured) provides blank screen recordings of (as far as I can tell) every chart in the game, so check those out if you want to study chart patterns in real time
 - The YouTube channel [koh/KoARa Scramble](https://www.youtube.com/@koh-ch1/featured) and [蓬莱 / H.R.channel](https://www.youtube.com/@REFJUB) features top level players absolutely crushing nearly all of the hardest charts in the game, making for a fun watch or helpful strategies for higher level players
 - The [_Mentality for Improvement in Rhythm Games_](https://docs.google.com/document/d/1gwuauPmfOTm99oOQlbZLBDRdIHUHi0Mnz3UW3hImmNc/edit) article written by fellow chunithm/iidx player 8por? is a fantastic guide for thinking about how to approach gameplay on a higher level
+
+- [**Lily's ONGEKI guide**](https://docs.google.com/document/d/1HKCW7DWjYRnVjCmPzrQwDKC0wKTi41X-Y-dP1-ygliU/edit#heading=h.wgso0cpkyrl)!
 
 ### Chart Constants (By Version)
 

@@ -297,7 +297,7 @@ _[Source](https://wikiwiki.jp/chunithmwiki/%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%
 | **Colour**  |   **Rating**    |     **Rank**      | **OP required** |
 | Silver      | 16.25 or above  |     S or more     |       N/A       |
 | Gold        | 16.50 or higher |    S+ or above    |      97.5%      |
-| Platinum    | 16.50 or higher |   SS or higher    |     98.85%      |
+| Platinum    | 16.50 or higher |   SS or higher    |   **99.00**%    |
 | **Rainbow** | 16.75 or higher | **SSS** or higher |   99\.**50**%   |
 
 | VERSE       |                    |               |                 |
@@ -305,7 +305,7 @@ _[Source](https://wikiwiki.jp/chunithmwiki/%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%
 | **Colour**  |     **Rating**     |   **Rank**    | **OP required** |
 | Silver      | **16.00** or above |   S or more   |       N/A       |
 | Gold        |  16.25 or higher   |  S+ or above  |      97.5%      |
-| Platinum    |  16.25 or higher   | SS or higher  |   **99.00**%    |
+| Platinum    |  16.25 or higher   | SS or higher  |     99.00%      |
 | **Rainbow** |  16.75 or higher   | SSS or higher |     99.50%      |
 
 If you see anyone with a possession plate, you can tell that they've sunk a lot of time into the game. I encourage players who are passionate about Chunithm to go for at least Silver possession—the experience of playing through all of the different patterns in the game is helpful for solidifying fundamentals.

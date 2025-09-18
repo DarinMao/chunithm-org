@@ -44,7 +44,9 @@ Appears in: *Zest of Blue*, *うまぴょい伝説*, etc.
 
 ## Blackmagik Pattern
 
-The Blackmagik pattern is essentially a chord trill except **every note is also an air note**. The way to hit this pattern is to quickly raise your hand into the air and repeatedly bounce up and down on the rhythm. This pattern is highly stamina-draining and hard to hit at high speed.
+The Blackmagik pattern is essentially a chord trill except **every note is an air note**. The way to hit this pattern is to quickly raise your hand into the air and repeatedly bounce up and down on the rhythm. This pattern is highly stamina-draining and hard to hit at high speed.
+
+Because of how lenient the air judgement window is, one strategy involves **only lifting one hand** to save stamina.
 
 ![Blackmagik example](images/patterns/blackmagik-1.png){: style="width: 100px"}![Blackmagik example](images/patterns/blackmagik-2.png){: style="width: 100px"}![Blackmagik example](images/patterns/blackmagik-3.png){: style="width: 100px"}
 <br>
@@ -55,7 +57,11 @@ Appears in: *Blackmagik Blazing*, *eden*, *Everlasting Liberty*.
 !!! mitsuyoshi "Mitsuyoshi Tip!"
     <strong id="mitsuyoshi-9">"Halfing" air patterns</strong>
 
-    Because air timing windows are highly lenient, you can actually simplify this pattern by only using a single hand to move up into the air and treat every other air input on that hand as a down air; the other hand doesn't have to jump up at all. Another method to reduce the stamina required is to treat the air inputs as up-up-down-down across both hands.
+    Because air timing windows are highly lenient, you can simplify similar patterns by only using a single hand to move up into the air and treating every other air input as a down air.
+
+![Halving example](images/patterns/mt9_take_blank.png){: style="width: 100px"}![Halving example](images/patterns/mt9_take_arrows.png){: style="width: 100px"}![Halving example](images/patterns/mt9_enjou_blank.png){: style="width: 100px"}![Halving example](images/patterns/mt9_enjou_arrows.png){: style="width: 100px"}
+<br>
+Appears in: *竹*, *宛城、炎上！！*
 
 ## Imperishable Night Pattern
 

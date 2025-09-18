@@ -55,7 +55,7 @@ _This goes on for four measures. Everlasting Liberty even mixes in a chord tripl
 Appears in: *Blackmagik Blazing*, *eden*, *Everlasting Liberty*.
 
 !!! mitsuyoshi "Mitsuyoshi Tip!"
-    <strong id="mitsuyoshi-9">"Halfing" air patterns</strong>
+    <strong id="mitsuyoshi-9">"Halving" air patterns</strong>
 
     Because air timing windows are highly lenient, you can simplify similar patterns by only using a single hand to move up into the air and treating every other air input as a down air.
 

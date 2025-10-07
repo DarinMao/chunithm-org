@@ -124,3 +124,38 @@ Appears in: *Bad Apple\!\! feat.nomico*, *スカイクラッドの観測者, Sin
 The way to increase consistency on these is to either rub **up and down** on the slider as you trace horizontally, or draw **small circles** while tracking the slide note. This will retrigger inputs on the slider and the game should not drop the slide. A few examples can be seen in [this video](https://youtu.be/_Fre-tuCz8c?si=y34Zwceb2uJt5-xo&t=107) and [this video](https://youtu.be/nBzAfVJ9U6A?si=-W1lbbECnJ7XFbfK&t=15).
 
 It is worth noting that rubbing the entire slider up and down with no regard for the position of the slide will not work. [This twitter video](https://x.com/cnt027/status/1868662441040826581?s=46&t=9u5qVv8Pr7BKTAVNEEx14A) by player ちなつさん demonstrates why it is important to follow the position of the slide while attempting to retrigger.
+
+## 5k
+
+Patterns requiring 5k ability may appear from time to time in charts and are a common weakness point for players. If using a 4-2-2-4 or similar handstyle, it is advised to become comfortable with incorporating the thumb on either hand to accurately execute 5k patterns.
+
+Here are a number of charts that include 5k patterns for players to practice with:
+
+~12+
+- ÅMARA (大未来電脳) (ADV 9)
+- Invitation (MAS 11+)
+- Sweet Devil (MAS 12+)
+- 《理想》 ～ Cloudland (MAS 12+)
+
+13 to 13+
+- Pre Paid Pog Punk Panic (EXP 13)
+- 風仁雷仁 (MAS 13)
+- La Flesvelka (MAS 13)
+- 創世のコンツェルティーナ (MAS 13)
+- Scythe of Death (EXP 13+)
+- elegante (ULT 13+)
+- Äventyr (MAS 13+)
+
+14 to 14+
+- Snow Colored Score (ULT 14)
+- 言ノ葉カルマ (UL 14)
+- felys -final remix- (MAS 14)
+- Supersonic Generation (MAS 14)
+- 風仁雷仁 (ULT 14+)
+- Excalibur \~Revised Resolution~ (MAS 14+)
+- Malleus Maleficarum (MAS 14+)
+
+15~
+- Marbleblue (MAS 15)
+- Reverberate (MAS 15)
+- ひつぎとふたご (MAS 15)

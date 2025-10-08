@@ -195,7 +195,7 @@ A list of World's End Markings are given below:
 
 Credit to @axelparkster on discord for English definitions.
 
-For above information about World's End charts, check the JP [wiki](https://gamerch.com/chunithm/entry/487368).
+For more information about World's End charts, check the JP [wiki](https://gamerch.com/chunithm/entry/487368).
 
 ## Overpower (OP)
 

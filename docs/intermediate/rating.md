@@ -47,7 +47,7 @@ Charts in the **Top 30** must be unique (only one entry per chart). You may have
 !!! mitsuyoshi "Mitsuyoshi Tip!"
     <strong id="mitsuyoshi-7">SSS "Rating Guard"</strong>
 
-    Another factor in the recents rule is that scores of rank SSS or higher (of any difficulty) will **not** displace the recent 10, instead pushing out the oldest chart amongst the remaining 20 in the recents pool. This is why you usually do not drop rating on SSS scores as the developers anticipated it wouldn't be very player friendly. As soon as a non-SSS score is achieved, the normal rules apply and the oldest chart in recent 10 is displaced. Exceptions are possible.
+    Another factor in the recents rule is that scores of rank SSS or above (of any difficulty) will **not** displace the recent 10, instead pushing out the oldest chart amongst the remaining 20 in the recents pool. This is why you usually do not drop rating on SSS scores as the developers anticipated it wouldn't be very player friendly. As soon as a non-SSS score is achieved, the normal rules apply and the oldest chart in recent 10 is displaced. Exceptions are possible.
 
 The amount of **rating** gained for charts is dependent on two variables: the **chart constant** and the **score** achieved on the chart.
 
@@ -258,54 +258,59 @@ Rating possession is an indicator that was introduced in Chunithm AMAZON PLUS. A
 
 The conditions for achieving rating possession are as follows:
 
-| ~PARADISE LOST |                |              |                 |
-| -------------- | :------------: | :----------: | :-------------: |
-| **Colour**     |   **Rating**   |   **Rank**   | **OP required** |
-| Silver         | 15.25 or above |  S or more   |       N/A       |
-| Gold           | 15.50 or above | SS or above  |       N/A       |
-| Platinum       | 15.75 or above | SS or higher |      98.5%      |
-| **Rainbow**    | 15.75 or above | SS or higher |      99.5%      |
+| AMAZON+~CRYSTAL |                |              |                 |
+| --------------- | :------------: | :----------: | :-------------: |
+| **Colour**      |   **Rating**   |   **Rank**   | **OP required** |
+| Silver          | 15.25 or above |  S or above  |       N/A       |
+| Gold            | 15.50 or above | SS or above  |       N/A       |
+| **Rainbow**     | 15.75 or above | SS or above  |      99.5%      |
 
-| NEW~NEW+    |                 |              |                 |
-| ----------- | :-------------: | :----------: | :-------------: |
-| **Colour**  |   **Rating**    |   **Rank**   | **OP required** |
-| Silver      | 16.25 or above  |  S or more   |       N/A       |
-| Gold        | 16.50 or higher | SS or above  |       N/A       |
-| Platinum    | 16.50 or higher | SS or higher |      98.5%      |
-| **Rainbow** | 16.75 or higher | SS or higher |      99.5%      |
+| CRYSTAL+~PARADISE LOST |                |             |                 |
+| ---------------------- | :------------: | :---------: | :-------------: |
+| **Colour**             |   **Rating**   |   **Rank**  | **OP required** |
+| Silver                 | 15.25 or above |  S or above |       N/A       |
+| Gold                   | 15.50 or above | SS or above |       N/A       |
+| Platinum               | 15.50 or above | SS or above |      98.5%      |
+| **Rainbow**            | 15.75 or above | SS or above |      99.5%      |
 
-| SUN~SUN+    |                 |               |                 |
-| ----------- | :-------------: | :-----------: | :-------------: |
-| **Colour**  |   **Rating**    |   **Rank**    | **OP required** |
-| Silver      | 16.25 or above  |   S or more   |       N/A       |
-| Gold        | 16.50 or higher |  S+ or above  |      97.5%      |
-| Platinum    | 16.50 or higher | SS or higher  |    **99.3**%    |
-| **Rainbow** | 16.75 or higher | SS+ or higher |    99.**6**%    |
+| NEW~NEW+    |                 |             |                 |
+| ----------- | :-------------: | :---------: | :-------------: |
+| **Colour**  |   **Rating**    |   **Rank**  | **OP required** |
+| Silver      | 16.25 or above  |  S or above |       N/A       |
+| Gold        | 16.50 or above  | SS or above |       N/A       |
+| Platinum    | 16.50 or above  | SS or above |      98.5%      |
+| **Rainbow** | 16.75 or above  | SS or above |      99.5%      |
 
-| LUMINOUS    |                 |               |                 |
-| ----------- | :-------------: | :-----------: | :-------------: |
-| **Colour**  |   **Rating**    |   **Rank**    | **OP required** |
-| Silver      | 16.25 or above  |   S or more   |       N/A       |
-| Gold        | 16.50 or higher |  S+ or above  |      97.5%      |
-| Platinum    | 16.50 or higher | SS or higher  |   **98.85**%    |
-| **Rainbow** | 16.75 or higher | SS+ or higher |   99.6**2**%    |
+| SUN~SUN+    |                    |              |                 |
+| ----------- | :----------------: | :----------: | :-------------: |
+| **Colour**  |   **Rating**       |   **Rank**   | **OP required** |
+| Silver      | 16.25 or above     |   S or above |       N/A       |
+| Gold        | 16.50 or above     |  S+ or above |      97.5%      |
+| Platinum    | 16.**75** or above | SS or above  |    **99.3**%    |
+| **Rainbow** | 16.75 or above     | SS+ or above |    99.**6**%    |
 
-_[Source](https://wikiwiki.jp/chunithmwiki/%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BBOVER%20POWER)_
+| LUMINOUS    |                    |              |                 |
+| ----------- | :----------------: | :-------- -: | :-------------: |
+| **Colour**  |   **Rating**       |   **Rank**   | **OP required** |
+| Silver      | 16.25 or above     |   S or above |       N/A       |
+| Gold        | 16.50 or above     |  S+ or above |      97.5%      |
+| Platinum    | 16.75 or above     | SS or above  |   **98.85**%    |
+| **Rainbow** | **17.00** or above | SS+ or above |   99.6**2**%    |
 
-| LUMINOUS+   |                 |                   |                 |
-| ----------- | :-------------: | :---------------: | :-------------: |
-| **Colour**  |   **Rating**    |     **Rank**      | **OP required** |
-| Silver      | 16.25 or above  |     S or more     |       N/A       |
-| Gold        | 16.50 or higher |    S+ or above    |      97.5%      |
-| Platinum    | 16.50 or higher |   SS or higher    |   **99.00**%    |
-| **Rainbow** | 16.75 or higher | **SSS** or higher |   99\.**50**%   |
+| LUMINOUS+   |                |                  |                 |
+| ----------- | :------------: | :--------------: | :-------------: |
+| **Colour**  |   **Rating**   |     **Rank**     | **OP required** |
+| Silver      | 16.25 or above |     S or above   |       N/A       |
+| Gold        | 16.50 or above |    S+ or above   |      97.5%      |
+| Platinum    | 16.75 or above |   SS or above    |   **99.00**%    |
+| **Rainbow** | 17.00 or above | **SSS** or above |   99\.**50**%   |
 
-| VERSE       |                    |               |                 |
-| ----------- | :----------------: | :-----------: | :-------------: |
-| **Colour**  |     **Rating**     |   **Rank**    | **OP required** |
-| Silver      | **16.00** or above |   S or more   |       N/A       |
-| Gold        |  16.25 or higher   |  S+ or above  |      97.5%      |
-| Platinum    |  16.25 or higher   | SS or higher  |     99.00%      |
-| **Rainbow** |  16.75 or higher   | SSS or higher |     99.50%      |
+| VERSE~X-VERSE |                    |              |                 |
+| ------------- | :----------------: | :----------: | :-------------: |
+| **Colour**    |     **Rating**     |   **Rank**   | **OP required** |
+| Silver        | **16.00** or above |   S or above |       N/A       |
+| Gold          | **16.00** or above |  S+ or above |      97.5%      |
+| Platinum      | **16.00** or above | SS or above  |     99.00%      |
+| **Rainbow**   | **16.00** or above | SSS or above |     99.50%      |
 
 If you see anyone with a possession plate, you can tell that they've sunk a lot of time into the game. I encourage players who are passionate about Chunithm to go for at least Silver possession—the experience of playing through all of the different patterns in the game is helpful for solidifying fundamentals.

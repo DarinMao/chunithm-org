@@ -274,38 +274,36 @@ The conditions for achieving rating possession are as follows:
 | Platinum    | 16.50 or higher | SS or higher |      98.5%      |
 | **Rainbow** | 16.75 or higher | SS or higher |      99.5%      |
 
-| SUN~SUN+    |                 |               |                 |
-| ----------- | :-------------: | :-----------: | :-------------: |
-| **Colour**  |   **Rating**    |   **Rank**    | **OP required** |
-| Silver      | 16.25 or above  |   S or more   |       N/A       |
-| Gold        | 16.50 or higher |  S+ or above  |      97.5%      |
-| Platinum    | 16.50 or higher | SS or higher  |    **99.3**%    |
-| **Rainbow** | 16.75 or higher | SS+ or higher |    99.**6**%    |
+| SUN~SUN+    |                     |               |                 |
+| ----------- | :-----------------: | :-----------: | :-------------: |
+| **Colour**  |   **Rating**        |   **Rank**    | **OP required** |
+| Silver      | 16.25 or above      |   S or more   |       N/A       |
+| Gold        | 16.50 or higher     |  S+ or above  |      97.5%      |
+| Platinum    | 16.**75** or higher | SS or higher  |    **99.3**%    |
+| **Rainbow** | 16.75 or higher     | SS+ or higher |    99.**6**%    |
 
-| LUMINOUS    |                 |               |                 |
-| ----------- | :-------------: | :-----------: | :-------------: |
-| **Colour**  |   **Rating**    |   **Rank**    | **OP required** |
-| Silver      | 16.25 or above  |   S or more   |       N/A       |
-| Gold        | 16.50 or higher |  S+ or above  |      97.5%      |
-| Platinum    | 16.50 or higher | SS or higher  |   **98.85**%    |
-| **Rainbow** | 16.75 or higher | SS+ or higher |   99.6**2**%    |
-
-_[Source](https://wikiwiki.jp/chunithmwiki/%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%BBOVER%20POWER)_
+| LUMINOUS    |                     |               |                 |
+| ----------- | :-----------------: | :-----------: | :-------------: |
+| **Colour**  |   **Rating**        |   **Rank**    | **OP required** |
+| Silver      | 16.25 or above      |   S or more   |       N/A       |
+| Gold        | 16.50 or higher     |  S+ or above  |      97.5%      |
+| Platinum    | 16.75 or higher     | SS or higher  |   **98.85**%    |
+| **Rainbow** | **17.00** or higher | SS+ or higher |   99.6**2**%    |
 
 | LUMINOUS+   |                 |                   |                 |
 | ----------- | :-------------: | :---------------: | :-------------: |
 | **Colour**  |   **Rating**    |     **Rank**      | **OP required** |
 | Silver      | 16.25 or above  |     S or more     |       N/A       |
 | Gold        | 16.50 or higher |    S+ or above    |      97.5%      |
-| Platinum    | 16.50 or higher |   SS or higher    |   **99.00**%    |
-| **Rainbow** | 16.75 or higher | **SSS** or higher |   99\.**50**%   |
+| Platinum    | 16.75 or higher |   SS or higher    |   **99.00**%    |
+| **Rainbow** | 17.00 or higher | **SSS** or higher |   99\.**50**%   |
 
-| VERSE       |                    |               |                 |
-| ----------- | :----------------: | :-----------: | :-------------: |
-| **Colour**  |     **Rating**     |   **Rank**    | **OP required** |
-| Silver      | **16.00** or above |   S or more   |       N/A       |
-| Gold        |  16.25 or higher   |  S+ or above  |      97.5%      |
-| Platinum    |  16.25 or higher   | SS or higher  |     99.00%      |
-| **Rainbow** |  16.75 or higher   | SSS or higher |     99.50%      |
+| VERSE~X-VERSE |                     |               |                 |
+| ------------- | :-----------------: | :-----------: | :-------------: |
+| **Colour**    |     **Rating**      |   **Rank**    | **OP required** |
+| Silver        | **16.00** or above  |   S or more   |       N/A       |
+| Gold          | **16.00** or higher |  S+ or above  |      97.5%      |
+| Platinum      | **16.00** or higher | SS or higher  |     99.00%      |
+| **Rainbow**   | **16.00** or higher | SSS or higher |     99.50%      |
 
 If you see anyone with a possession plate, you can tell that they've sunk a lot of time into the game. I encourage players who are passionate about Chunithm to go for at least Silver possession—the experience of playing through all of the different patterns in the game is helpful for solidifying fundamentals.

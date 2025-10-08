@@ -312,5 +312,6 @@ The conditions for achieving rating possession are as follows:
 | Gold          | **16.00** or above |  S+ or above |      97.5%      |
 | Platinum      | **16.00** or above | SS or above  |     99.00%      |
 | **Rainbow**   | **16.00** or above | SSS or above |     99.50%      |
+_Credit to beerpsi for finding accurate possession thresholds and values_
 
 If you see anyone with a possession plate, you can tell that they've sunk a lot of time into the game. I encourage players who are passionate about Chunithm to go for at least Silver possession—the experience of playing through all of the different patterns in the game is helpful for solidifying fundamentals.

@@ -127,3 +127,4 @@ Special thanks to kyleforkbomb for hosting and helping port the English Chunithm
 - 2025-06-16: added 'Registering a SEGA ID' (thanks beerpsi), updated acknowledgements
 - 2025-09-18: expanded Mitsuyoshi Tip 9
 - 2025-10-07: added ‘5k’ section to Advanced Patterns
+- 2025-10-08: corrected Possession values

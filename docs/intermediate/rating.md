@@ -258,13 +258,20 @@ Rating possession is an indicator that was introduced in Chunithm AMAZON PLUS. A
 
 The conditions for achieving rating possession are as follows:
 
-| ~PARADISE LOST |                |              |                 |
-| -------------- | :------------: | :----------: | :-------------: |
-| **Colour**     |   **Rating**   |   **Rank**   | **OP required** |
-| Silver         | 15.25 or above |  S or more   |       N/A       |
-| Gold           | 15.50 or above | SS or above  |       N/A       |
-| Platinum       | 15.75 or above | SS or higher |      98.5%      |
-| **Rainbow**    | 15.75 or above | SS or higher |      99.5%      |
+| AMAZON+~CRYSTAL |                |              |                 |
+| --------------- | :------------: | :----------: | :-------------: |
+| **Colour**      |   **Rating**   |   **Rank**   | **OP required** |
+| Silver          | 15.25 or above |  S or more   |       N/A       |
+| Gold            | 15.50 or above | SS or above  |       N/A       |
+| **Rainbow**     | 15.75 or above | SS or higher |      99.5%      |
+
+| CRYSTAL+~PARADISE LOST |                |              |                 |
+| ---------------------- | :------------: | :----------: | :-------------: |
+| **Colour**             |   **Rating**   |   **Rank**   | **OP required** |
+| Silver                 | 15.25 or above |  S or more   |       N/A       |
+| Gold                   | 15.50 or above | SS or above  |       N/A       |
+| Platinum               | 15.50 or above | SS or higher |      98.5%      |
+| **Rainbow**            | 15.75 or above | SS or higher |      99.5%      |
 
 | NEW~NEW+    |                 |              |                 |
 | ----------- | :-------------: | :----------: | :-------------: |

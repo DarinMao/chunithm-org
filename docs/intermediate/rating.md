@@ -219,7 +219,7 @@ A table detailing benchmark scores required to reach Possession thresholds acros
 
 ### Overpower Calculation/Display (~LUMINOUS)
 
-The Overpower tracking system was overhauled in accordance with the Ultima system changes made to this version. Pre-LUMINOUS+, overpower was calculated for every **individual chart**, and the player would have been able to see their Overpower metrics for whatever folder and difficulty was active at the time. For instance, a score on an Expert chart would contribute to Expert OP% but would not contribute to possession (which only considered Master OP and Ultima OP). 
+The Overpower tracking system was overhauled in accordance with the Ultima system changes made to this version. Pre-LUMINOUS+, overpower was calculated for every **individual chart**, and the player would have been able to see their Overpower metrics for whatever folder and difficulty was active at the time. For instance, a score on an Expert chart would contribute to Expert OP% but would not contribute to possession (which only considered Master OP and Ultima OP).
 
 Note how the Overpower value displayed is different between Expert difficulty and Master difficulty.
 
@@ -228,7 +228,7 @@ Note how the Overpower value displayed is different between Expert difficulty an
 
 ### Overpower Calculation/Display (LUMINOUS+~)
 
-Overpower metrics are now calculated for the **song**, regardless of the difficulty. For each song, the score that would result in the **highest OP** value contributes to Total OP. This is typically the score on the highest played difficulty, but in some instances a very high score on a lower difficulty chart may provide more OP than a poor score on a higher difficulty chart. 
+Overpower metrics are now calculated for the **song**, regardless of the difficulty. For each song, the score that would result in the **highest OP** value contributes to Total OP. This is typically the score on the highest played difficulty, but in some instances a very high score on a lower difficulty chart may provide more OP than a poor score on a higher difficulty chart.
 
 The Total OP is now calculated from the theoretical value (AJC) on the highest available difficulty across all songs in the folder.
 
@@ -312,6 +312,7 @@ The conditions for achieving rating possession are as follows:
 | Gold          | **16.00** or above |  S+ or above |      97.5%      |
 | Platinum      | **16.00** or above | SS or above  |     99.00%      |
 | **Rainbow**   | **16.00** or above | SSS or above |     99.50%      |
+
 _Credit to beerpsi for finding accurate possession thresholds and values_
 
 If you see anyone with a possession plate, you can tell that they've sunk a lot of time into the game. I encourage players who are passionate about Chunithm to go for at least Silver possession—the experience of playing through all of the different patterns in the game is helpful for solidifying fundamentals.

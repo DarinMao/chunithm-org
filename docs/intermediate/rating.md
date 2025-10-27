@@ -316,3 +316,4 @@ The conditions for achieving rating possession are as follows:
 _Credit to beerpsi for finding accurate possession thresholds and values_
 
 If you see anyone with a possession plate, you can tell that they've sunk a lot of time into the game. I encourage players who are passionate about Chunithm to go for at least Silver possession—the experience of playing through all of the different patterns in the game is helpful for solidifying fundamentals.
+Ddrlevelasian’s [CHUNITHM Possession Guide](https://docs.google.com/document/d/1wCRvaoXezTfqFLwY9bssxgWifvOHXJC6jt_mi0QrutQ/edit?usp=sharing) is a fantastic read if you are at all curious about what the process of possession is like and how it can benefit you as a player.

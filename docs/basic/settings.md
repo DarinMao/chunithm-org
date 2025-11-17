@@ -85,29 +85,31 @@ Finding a proper offset to play at is a common process when adjusting to a new r
 
 Additionally, terminology surrounding types of offset may not be interpreted the same by all players. This guide will follow the definitions in Tokaku's [_Do you hit ON the line or ABOVE the line?_](https://www.youtube.com/watch?v=JWj98KJVuAQ) video. Additionally, a good explanation is given in donmai's article on [GekiChuMai Timing Windows and Offsets](https://listed.to/@donmai/41511/gekichumai-timing-windows-and-offsets).
 
-**PARADISE LOST**: only **Judgement Timing A** (chart offset) is adjustable as outlined in the settings table above. This is less than ideal, as players that time based on the audio of the song don't have a fine option to tune offset. I would follow this method to determine an optimal offset:
+**NEW~**: both **Judgement Timing A** (chart) and **Judgement Timing B** (judgement/input) are adjustable. The way I perceive the difference is as follows:
+
+- Judgement Timing A will shift the _position_ of the notes on the play field up or down, so that the notes hit the judgement line earlier or later.
+- Judgement Timing B will shift the _judgement timing_ of the notes so that the entire judgement breakdown/distribution shifts earlier or later, irrespective of the position of the notes.
+
+As such, I would follow the following method to calibrate offset:
+
+1. Find a song and chart that is familiar and comfortable to play. You should be able to hit nearly every note in the chart, but ensure it has some amount of pattern complexity to use as a benchmark.
+2. Are the notes disappearing on the center of the judgement line in time with the audio?
+   1. If yes, then proceed straight to step 3.
+   2. If not, then adjust **Judgement Offset A**. _**Ignore all judgement feedback when you are adjusting Offset A**_ (you can remove judgement indicators in settings during this step).
+      1. If you perceive that you have to hit **above** the judgement line to be on time with the song, **decrease** (-) Judgement Timing A until the notes align with the judgement line.
+      2. If you perceive that you have to hit **below** the judgement line to be on time with the song, **increase** (+) Judgement Timing A until the notes align with the judgement line.
+3. Once Offset A is set, play the benchmark chart and press the _DETAILS_ button on the score results screen to bring up the **judgement distribution**.
+   1. If there are more **fast** notes, **decrease** (-) Judgement Timing B by 0.1-0.2.
+   2. If there are more **late** notes, **increase** (+) Judgement Timing B by 0.1-0.2.
+   3. Repeat the above step until the fast/late distribution is roughly equal.
+  
+**~PARADISE LOST**: only **Judgement Timing A** (chart offset) is adjustable as outlined in the settings table above. This is less than ideal, as players that time based on the audio of the song don't have a fine option to tune offset. I would follow this method to determine an optimal offset:
 
 1. Find a song and chart that is **familiar** and **easy** to play. You should be able to hit nearly every note in the chart, but ensure it has some amount of pattern complexity to use as a benchmark.
 2. Note the **Fast/Late** distribution of the benchmark chart on the results screen.
    1. If there are more **fast** notes, **decrease** (-) offset by 0.1-0.2.
    2. If there are more **late** notes, **increase** (+) offset by 0.1-0.2.
 3. Repeat steps 1-2 until the fast/late distribution is roughly equal.
-
-**NEW**: both **Judgement Timing A** (chart) and **Judgement Timing B** (judgement/input) are adjustable. The way I perceive the difference is as follows:
-
-- Judgement Timing A will shift the _position_ of the notes on the play field up or down, so that the notes hit the judgement line earlier or later.
-- Judgement Timing B will shift the _judgement timing_ of the notes so that the entire judgement breakdown/distribution shifts earlier or later, irrespective of the position of the notes.
-
-As such, I would follow the following method to determine an optimal offset:
-
-1. Find a song and chart that is **familiar** and **easy** to play. You should be able to hit nearly every note in the chart, but ensure it has some amount of pattern complexity to use as a benchmark.
-2. When playing the benchmark chart, see if the rhythm/beats of the song are lining up with where the judgement line is, **regardless** of the actual judgement (justice critical/justice/attack etc.).
-   1. If you perceive that you have to hit **above** the judgement line to be on time with the song, **decrease** (-) Judgement Timing A until the notes align with the judgement line.
-   2. If you perceive that you have to hit **below** the judgement line to be on time with the song, **increase** (+) Judgement Timing A until the notes align with the judgement line.
-3. Once the notes are aligned with the judgement line, play the benchmark chart again and examine the judgement breakdown or fast/late ratio on the results screen.
-   1. If there are more **fast** notes, **decrease** (-) Judgement Timing B by 0.1-0.2.
-   2. If there are more **late** notes, **increase** (+) Judgement Timing B by 0.1-0.2.
-   3. Repeat the above step until the fast/late distribution is roughly equal.
 
 One final note about offset is that the **scroll speed** and **field wall** can also be used as a tool to subjectively adjust the timing of notes. From personal experience, increasing the scroll speed shifts the fast/late distribution away from the fast side.
 

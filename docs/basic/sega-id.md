@@ -78,3 +78,17 @@ SEGA ID.
 To link a card to your SEGA ID, navigate to the [Aime service site](https://my-aime.net/en/)
 and login with your newly-created SEGA ID. The website has an English version, so you 
 can take it from here.
+
+!!! warning "If you're migrating from social media login"
+
+    **Do not use the SEGA ID連携 (SEGA ID Link) feature.** It adds the social media account
+    as a login method to the newly-created SEGA ID account, but does not transfer over any
+    existing cards!
+    
+    <figure markdown>
+      ![Before binding](./images/sega-id-before-binding.png){ style="display: inline; margin: 0 0.125rem;" }
+      ![After binding](./images/sega-id-after-binding.png){ style="display: inline; margin: 0 0.125rem;" }
+      <figcaption>SEGA ID and social media accounts before and after binding</figcaption>
+    </figure>
+    
+    Simply unbind the cards from the social media account, and bind them to the new SEGA ID account.

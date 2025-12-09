@@ -19,7 +19,7 @@ The colour of the rating is dependent on which rating bracket it falls into.
 | 15.25 to 15.99 | Platinum    |
 | 16.00+         | **Rainbow** |
 
-??? Legacy Rating (~**PARADISE LOST**)
+??? "Legacy Rating (~**PARADISE LOST**)"
 
     | ~PARADISE LOST |             |
     | :------------- | :---------- |
@@ -78,7 +78,7 @@ _<sup>1</sup>Note: The SSS+ bonus interval, similar to other \+ intervals, is on
 
 Scores that lie in between these thresholds are **interpolated**, see the "Gaining Rating" section below.
 
-??? Legacy Rating Formula (~LUMINOUS+)
+??? "Legacy Rating Formula (~LUMINOUS+)"
 
     The **player rating formula** is split up into two components:
 
@@ -214,7 +214,7 @@ For more information about World's End charts, check the JP [wiki](https://gamer
 
 ## Online Battle
 
-Online Battle (全国対戦) was introduced in **NEW**, and is a matchmaking mode where up to 4 players are placed in lobbies against other players of similar skill level and compete against each other across 4 songs; each player picks their own chart. 
+Online Battle (全国対戦) was introduced in **NEW**, and is a matchmaking mode where up to 4 players are placed in lobbies against other players of similar skill level and compete against each other across 4 songs; each player picks their own chart.
 
 ![Online Battle screen](images/online-battle.png)
 

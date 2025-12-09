@@ -27,7 +27,7 @@ Limit Break Requirements (source: [wikiwiki](https://wikiwiki.jp/chunithmwiki/%E
 | 105 - 125       | 5                                        | 62                        |
 | 125 - 150       | 6                                        | 92                        |
 
-Character skills used to be split into 5 main categories, now only Boost and Danger are used: 
+Character skills used to be split into 5 main categories, now only Boost and Danger are used:
 
 | Skill Type                    | Icon                                                                                                                                                                                                                                                                               |
 | :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,9 +47,9 @@ In Chunithm NEW and beyond, obtaining and leveling characters will reward you **
 
 The specific values and formulas that drive the map clear system are outside of the scope of this guide and people seeking more information should check the jp [wiki](https://gamerch.com/chunithm/entry/490095).
 
-## Skill Tables 
+## Skill Tables
 
-??? Version-Dependent Skills (SUN+ ~ LUMINOUS+)
+??? "Version-Dependent Skills (SUN+ ~ LUMINOUS+)"
 
     The following is a skill table for skills that reward skill frames. All danger skills have a certain threshold of notes that, once met, will force quit the chart. Specific information about each skill can be read about on [wikiwiki (jp)](https://wikiwiki.jp/chunithmwiki/%E3%82%B9%E3%82%AD%E3%83%AB%E6%AF%94%E8%BC%83%28NEW%EF%BD%9E%29).
 
@@ -110,7 +110,7 @@ Songs will display a set of badges/indicators/frames based on the achievement of
 
 There are 4 standard clear indicators/frames:
 
-??? Clear Lamps (SUN+ ~ LUMINOUS+)
+??? "Clear Lamps (SUN+ ~ LUMINOUS+)"
     | Frame | Icon                                                                                                                                                                                                                                                                                                                                                                                                                                            | Description                                                                                                                                                                                                                                                                       |
     | :---- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
     | Skill | ![Clear](images/clears/clear.png){: style="width: 100px"}![Hard](images/clears/hard.png){: style="width: 100px"}![Absolute](images/clears/absolute.png){: style="width: 100px"}![Absolute+](images/clears/absolute+.png){: style="width: 100px"}![Catastrophy](images/clears/catastrophy.png){: style="width: 100px"}                                                                                                                        | Rewarded based on the highest difficulty skill equipped Chunithm SUN PLUS~ **Clear**: any Defense/Support/Boost skill **Hard**: Judge/Judge+/Emblem skill **Absolute**: Absolute/Emblem+ skill **Absolute+**: Absolute+ skill **Catastrophy**: Catastrophy skill             |

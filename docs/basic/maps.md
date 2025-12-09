@@ -53,7 +53,7 @@ Tickets are **not** **selectable** when the game is on FREE PLAY mode.
 | CHUNITHM-NET Ticket                  | ![Ticket image](images/tickets/chunithm-net.png)                                                                                                                                         | Multiplies the gained character EXP by 9x and map steps by 3x. Additionally, allows you to play Master, Ultima, and World's End charts.                                                                                                                                                                                            |
 | EXP Stock Ticket                     | ![Ticket image](images/tickets/exp-stock.png)                                                                                                                                            | Accumulated by gaining EXP on a character with MAX (capped) level. Will give a very large EXP boost to the equipped character on Track 1 of the credit and allows you to play Master charts. Only 1 of these tickets can be held at a time.                                                                                        |
 
-??? Legacy Tickets (~**PARADISE LOST**)
+??? "Legacy Tickets (~**PARADISE LOST**)"
 
     | Ticket Name               | Ticket Appearance                                      | Effect                                                                                                                        |
     | :------------------------ | :----------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- |

@@ -4,7 +4,7 @@ There are 4 main difficulty levels in Chunithm through to **PARADISE LOST**, whi
 
 By default, the game will not allow you to play **Master** charts until you have achieved a rank of S or higher the Expert difficulty of the same chart ("clearing" is not required). However, this can be circumvented by using a **Boost Ticket** that allows you to play Master charts without unlocking them first. They will remain unlocked if a rank of S or higher is achieved. To unlock **Ultima** charts, you are required to achieve SS or higher on both the **Expert** and **Master** charts of the song in question, or by using a **Boost Ticket** or **Ultima Play Ticket**. Unlike Master charts, scoring well on the Ultima chart will not unlock the chart permanently.
 
-??? Legacy Levels (~PARADISE LOST)
+??? "Legacy Levels (~PARADISE LOST)"
 
     **PARADISE LOST**: charts are rated from **1-14**, while in newer versions (**NEW** and up), charts are rated from **1-15**. Many charts previously rated 12 and higher were generally re-rated to better separate difficulty. Charts above difficulty 7.0 have hidden **chart constants** that lie between the simple integers the game displays which affects player rating.
 

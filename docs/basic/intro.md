@@ -17,6 +17,7 @@ Please see the table below for how each version is labeled:
 | **LUMINOUS+**     | June 20th, 2024     |
 | **VERSE**         | December 12th, 2024 |
 | **X-VERSE**       | July 16, 2025       |
+| **X-VERSE-X**     | December 11th, 2025 |
 
 ## Controls
 There are two primary inputs that are relevant to gameplay in Chunithm.

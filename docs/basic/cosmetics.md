@@ -1,5 +1,13 @@
 # Cosmetics and Reward Systems
 
+## Titles
+
+Titles are awarded by performing specific actions on charts. A very common title is given for achieving all justice on a chart (expert/master difficulty), but many other titles are achieved through other play, matching play, leveling up characters, or other hidden unlock conditions. Please visit the [jp wikiwiki](https://wikiwiki.jp/chunithmwiki/%E6%A5%BD%E6%9B%B2%E3%83%97%E3%83%AC%E3%82%A4%E7%A7%B0%E5%8F%B7%E4%B8%80%E8%A6%A7) for more information.
+
+X-VERSE-X: Achieving all justice on Ultima difficulty charts will now reward a title.
+
+![Ultima Titles](images/ultima-title.png)
+
 ## Penguin Avatar
 
 **NEW**: players now have their very own **Penguin Avatar** that will show up in the bottom left of the play area throughout the game.
@@ -75,3 +83,11 @@ As more stars are acquired, the rank of the Player Trophy will increase at given
 Additionally, you may now equip up to **three** titles on your profile. In gameplay, these titles will rotate in sequence by fading in and out with each other.
 
 ![VERSE three titles equippable](images/verse-titles-2.png)
+
+## Stage Plate/Background
+
+X-VERSE: the stage background can now be changed in CHUNITHM-NET after an applicable one has been unlocked in game. This background will appear during gameplay.
+
+![Stage Plate graphic](images/stage-plate.png)
+
+

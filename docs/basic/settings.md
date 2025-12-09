@@ -102,14 +102,16 @@ As such, I would follow the following method to calibrate offset:
    1. If there are more **fast** notes, **decrease** (-) Judgement Timing B by 0.1-0.2.
    2. If there are more **late** notes, **increase** (+) Judgement Timing B by 0.1-0.2.
    3. Repeat the above step until the fast/late distribution is roughly equal.
-  
-**~PARADISE LOST**: only **Judgement Timing A** (chart offset) is adjustable as outlined in the settings table above. This is less than ideal, as players that time based on the audio of the song don't have a fine option to tune offset. I would follow this method to determine an optimal offset:
 
-1. Find a song and chart that is **familiar** and **easy** to play. You should be able to hit nearly every note in the chart, but ensure it has some amount of pattern complexity to use as a benchmark.
-2. Note the **Fast/Late** distribution of the benchmark chart on the results screen.
-   1. If there are more **fast** notes, **decrease** (-) offset by 0.1-0.2.
-   2. If there are more **late** notes, **increase** (+) offset by 0.1-0.2.
-3. Repeat steps 1-2 until the fast/late distribution is roughly equal.
+??? Legacy Offset (~**PARADISE LOST**)
+
+   **~PARADISE LOST**: only **Judgement Timing A** (chart offset) is adjustable as outlined in the settings table above. This is less than ideal, as players that time based on the audio of the song don't have a fine option to tune offset. I would follow this method to determine an optimal offset:
+
+   1. Find a song and chart that is **familiar** and **easy** to play. You should be able to hit nearly every note in the chart, but ensure it has some amount of pattern complexity to use as a benchmark.
+   2. Note the **Fast/Late** distribution of the benchmark chart on the results screen.
+      1. If there are more **fast** notes, **decrease** (-) offset by 0.1-0.2.
+      2. If there are more **late** notes, **increase** (+) offset by 0.1-0.2.
+   3. Repeat steps 1-2 until the fast/late distribution is roughly equal.
 
 One final note about offset is that the **scroll speed** and **field wall** can also be used as a tool to subjectively adjust the timing of notes. From personal experience, increasing the scroll speed shifts the fast/late distribution away from the fast side.
 

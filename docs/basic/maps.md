@@ -53,12 +53,12 @@ Tickets are **not** **selectable** when the game is on FREE PLAY mode.
 | CHUNITHM-NET Ticket                  | ![Ticket image](images/tickets/chunithm-net.png)                                                                                                                                         | Multiplies the gained character EXP by 9x and map steps by 3x. Additionally, allows you to play Master, Ultima, and World's End charts.                                                                                                                                                                                            |
 | EXP Stock Ticket                     | ![Ticket image](images/tickets/exp-stock.png)                                                                                                                                            | Accumulated by gaining EXP on a character with MAX (capped) level. Will give a very large EXP boost to the equipped character on Track 1 of the credit and allows you to play Master charts. Only 1 of these tickets can be held at a time.                                                                                        |
 
-Deprecated Tickets (~**PARADISE LOST**)
+??? Legacy Tickets (~**PARADISE LOST**)
 
-| Ticket Name               | Ticket Appearance                                      | Effect                                                                                                                        |
-| :------------------------ | :----------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- |
-| Bonus Track Ticket        | ![Ticket image](images/tickets/bonus-track.png)        | Given every 5 player levels in **PARADISE LOST**. Allows you to play a 4th track in your set, but does **not** unlock charts. |
-| Mission Difficulty Ticket | ![Ticket image](images/tickets/mission-difficulty.png) | Allows you to select any difficulty on your next map mission song.                                                            |
+    | Ticket Name               | Ticket Appearance                                      | Effect                                                                                                                        |
+    | :------------------------ | :----------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------- |
+    | Bonus Track Ticket        | ![Ticket image](images/tickets/bonus-track.png)        | Given every 5 player levels in **PARADISE LOST**. Allows you to play a 4th track in your set, but does **not** unlock charts. |
+    | Mission Difficulty Ticket | ![Ticket image](images/tickets/mission-difficulty.png) | Allows you to select any difficulty on your next map mission song.                                                            |
 
 !!! mitsuyoshi "Mitsuyoshi Tip!"
     <strong id="mitsuyoshi-3">Use map tickets!</strong>

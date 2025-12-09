@@ -2,7 +2,7 @@
 
 Chunithm (チュウニズム in Japanese) was released by Sega in 2015, and is one of the three pillars of Sega's Performai series of arcade rhythm games, the other two being maimai and O.N.G.E.K.I. New versions of Chunithm are typically released every year, with a “PLUS” iteration every 6 months to add and re-balance charts. Notably, there was a significant hardware upgrade made to the game between Chunithm **PARADISE LOST** and Chunithm **NEW**, the most defining feature being an upgrade from a 60Hz monitor to a 120Hz monitor, but also adding other features such as upgraded panels, speakers, an in-game arena, and customization options.
 
-In Japan, the current version of Chunithm is **X-VERSE** (pronounced "cross-verse"), released on July 16, 2025\. This guide contains information on versions starting from Chunithm **PARADISE LOST** to the current version.
+In Japan, the current version of Chunithm is **X-VERSE-X** (pronounced "cross-verse-X"), released on December 11th, 2025. This guide contains information on versions starting from Chunithm **PARADISE LOST** to the current version.
 
 Please see the table below for how each version is labeled:
 

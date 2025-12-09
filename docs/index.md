@@ -7,6 +7,7 @@
 - **[The (Extended) Chunithm Tutorial v1.0](https://docs.google.com/document/d/1_AmKP9TX2mD0kS6HKmNxbXCThdJ5gx1kHGQvWLIOyI4/edit?usp=sharing)**
 - **[Chunithm Chart Compendium/Codex (VERSE) v2.65](https://docs.google.com/spreadsheets/d/1xP1huTSA-XWKZaDfmyNh-viRbUE777d2Rg54j5-2VAU/edit?usp=sharing)**
 - **[Kamaitachi Chunithm Questline v2.02](https://docs.google.com/spreadsheets/d/14BE1lDS04lZtms7PX53syK0rt6tVJ8-qdx6JDCtfxa4/edit?usp=sharing)**
+- **[Linked VERSE Unlock Guide](https://docs.google.com/spreadsheets/d/1j7kmCR0-R5W3uivwkw-6A_eUCXttnJLnkTO0Qf7dya0/edit?usp=sharing)**
 
 ## Intro
 Hi! I'm Codex, a Canadian :flag_ca: Chunithm player. I've been playing Chunithm actively since 2021 and wanted to share some of my knowledge and experience with the wider English-speaking rhythm game community. I have also participated and placed in the podium for the following North American Chunithm tournaments: [Boston INNOVATED \-\[i1\]-](https://www.youtube.com/watch?v=S-rF0fIZZDk), [CHQ Arcade Championship](https://www.youtube.com/watch?v=B9dRyY-lnZo), and [Zenith Arcade Championship](https://www.youtube.com/watch?v=33eT3CksmLc). I’ve also run a handful of tournaments, including the most recent [Codex Cup](https://www.youtube.com/watch?v=W6_UkkE9PFE).
@@ -47,6 +48,7 @@ Special thanks to kyleforkbomb for hosting and helping port the English Chunithm
   - [PARALOST](https://docs.google.com/spreadsheets/d/12_5kvJZSN6WA1eqUIzFspjBlrxHa3_Py-Z6jsOHe_rE/edit?usp=sharing) (archive)
 - [Kamaitachi Chunithm Questline Tracker](https://chunithm.org/quests)
 - Chunithm [Rating Calculator](https://docs.google.com/spreadsheets/d/1TT3-89PqcTvyL_nMbnGxL2q5bg5pLtHiKg_qStSJ88M/edit?usp=sharing)
+- [Linked VERSE Unlock Guide](https://docs.google.com/spreadsheets/d/1j7kmCR0-R5W3uivwkw-6A_eUCXttnJLnkTO0Qf7dya0/edit?usp=sharing)
 
 ### Websites and Videos
 
@@ -130,3 +132,4 @@ Special thanks to kyleforkbomb for hosting and helping port the English Chunithm
 - 2025-10-07: added ‘5k’ section to Advanced Patterns
 - 2025-10-08: corrected Possession values
 - 2025-10-26: added links to ddrlevelasian’s CHUNITHM Possession Guide
+- 2025-12-19: addition/reorganization of ‘Other Gamemodes’, added ‘Titles’, ‘Stage Plate/Background’, X-VERSE-X updates

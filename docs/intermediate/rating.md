@@ -8,18 +8,31 @@ As you've probably noticed, your player card displays a rating, which is a numer
 
 The colour of the rating is dependent on which rating bracket it falls into.
 
-| ~PARADISE LOST |             |     | NEW~           |             |
-| :------------- | :---------- | :-- | :------------- | :---------- |
-| **Rating**     | **Colour**  |     | **Rating**     | **Colour**  |
-| 0.00 to 3.99   | Green       |     | 0.00 to 3.99   | Green       |
-| 4.00 to 6.99   | Orange      |     | 4.00 to 6.99   | Orange      |
-| 7.00 to 9.99   | Red         |     | 7.00 to 9.99   | Red         |
-| 10.00 to 11.99 | Purple      |     | 10.00 to 11.99 | Purple      |
-| 12.00 to 12.99 | Bronze      |     | 12.00 to 13.24 | Bronze      |
-| 13.00 to 13.99 | Silver      |     | 13.25 to 14.49 | Silver      |
-| 14.00 to 14.49 | Gold        |     | 14.50 to 15.24 | Gold        |
-| 14.50 to 14.99 | Platinum    |     | 15.25 to 15.99 | Platinum    |
-| 15.00+         | **Rainbow** |     | 16.00+         | **Rainbow** |
+| **Rating**     | **Colour**  |
+| 0.00 to 3.99   | Green       |
+| 4.00 to 6.99   | Orange      |
+| 7.00 to 9.99   | Red         |
+| 10.00 to 11.99 | Purple      |
+| 12.00 to 13.24 | Bronze      |
+| 13.25 to 14.49 | Silver      |
+| 14.50 to 15.24 | Gold        |
+| 15.25 to 15.99 | Platinum    |
+| 16.00+         | **Rainbow** |
+
+??? Legacy Rating (~**PARADISE LOST**)
+
+    | ~PARADISE LOST |             |
+    | :------------- | :---------- |
+    | **Rating**     | **Colour**  |
+    | 0.00 to 3.99   | Green       |
+    | 4.00 to 6.99   | Orange      |
+    | 7.00 to 9.99   | Red         |
+    | 10.00 to 11.99 | Purple      |
+    | 12.00 to 12.99 | Bronze      |
+    | 13.00 to 13.99 | Silver      |
+    | 14.00 to 14.49 | Gold        |
+    | 14.50 to 14.99 | Platinum    |
+    | 15.00+         | **Rainbow** |
 
 **VERSE**: rating intervals of 0.25 past **Platinum** are recognized with stars.
 
@@ -31,23 +44,19 @@ The colour of the rating is dependent on which rating bracket it falls into.
 | 16.75  | Rainbow (★★★★)<br>![Rainbow 4 rank up](images/rainbow-4.png){: style="width: 200px"}           |
 | 17.00  | Rainbow (極, "Kiwami")<br>![Rainbow Kiwami rank up](images/kiwami.png){: style="width: 200px"} |
 
-## Rating Formula (~LUMINOUS+)
+## Rating Formula (VERSE~)
 
-The **player rating formula** is split up into two components:
+**VERSE**: the recents folder has been **removed**. Instead, rating is composed of a "new songs" folder alongside the existing "best rated scores" folder, similar to maimaiDX.
 
-| Top 30 all-time scores | \+  | Recent 10 high scores |
-| :--------------------: | :-: | :-------------------: |
-|   aka "Best 30/B30"    |     |     aka "Recents"     |
+Rating is now measured across **50 charts** in total. You can no longer have your rating drop at any point during the active version, although players can expect their rating to drop upon the next version of the game (Chunithm VERSE PLUS).
 
-An example is shown below (source: [Chunithm Rating Calculator](https://docs.google.com/spreadsheets/d/1TT3-89PqcTvyL_nMbnGxL2q5bg5pLtHiKg_qStSJ88M/edit#gid=824923779)):
-![Rating calculator screenshot](images/rating-calc.png)
+The player rating formula is split up into two components:
 
-Charts in the **Top 30** must be unique (only one entry per chart). You may have two difficulties of the same song in the Top 30, but not the same difficulty. Charts in **Recents** are not held to any such restrictions and as such you may fill the Recents section with multiple plays of the same chart. Recents are taken from the last **30** charts played and will be displaced either once a score with a higher rating is achieved or 30 new charts have replaced the pool.
+| Top 30 all-time scores | \+  | 20 high scores from current version |
+| :--------------------: | :-: | :---------------------------------: |
+|   aka "Best 30/B30"    |     |          aka "New 20/N20"           |
 
-!!! mitsuyoshi "Mitsuyoshi Tip!"
-    <strong id="mitsuyoshi-7">SSS "Rating Guard"</strong>
-
-    Another factor in the recents rule is that scores of rank SSS or above (of any difficulty) will **not** displace the recent 10, instead pushing out the oldest chart amongst the remaining 20 in the recents pool. This is why you usually do not drop rating on SSS scores as the developers anticipated it wouldn't be very player friendly. As soon as a non-SSS score is achieved, the normal rules apply and the oldest chart in recent 10 is displaced. Exceptions are possible.
+All individual charts must be **unique** across all rating charts. In other words, a high score on a chart that would contribute to your B50 would only count once.
 
 The amount of **rating** gained for charts is dependent on two variables: the **chart constant** and the **score** achieved on the chart.
 
@@ -69,21 +78,23 @@ _<sup>1</sup>Note: The SSS+ bonus interval, similar to other \+ intervals, is on
 
 Scores that lie in between these thresholds are **interpolated**, see the "Gaining Rating" section below.
 
-## Rating Formula (VERSE~)
+??? Legacy Rating Formula (~LUMINOUS+)
 
-**VERSE**: the recents folder has been **removed**. Instead, rating is composed of a "new songs" folder alongside the existing "best rated scores" folder, similar to maimaiDX.
+    The **player rating formula** is split up into two components:
 
-Rating is now measured across **50 charts** in total. You can no longer have your rating drop at any point during the active version, although players can expect their rating to drop upon the next version of the game (Chunithm VERSE PLUS).
+    | Top 30 all-time scores | \+  | Recent 10 high scores |
+    | :--------------------: | :-: | :-------------------: |
+    |   aka "Best 30/B30"    |     |     aka "Recents"     |
 
-The player rating formula is split up into two components:
+    An example is shown below (source: [Chunithm Rating Calculator](https://docs.google.com/spreadsheets/d/1TT3-89PqcTvyL_nMbnGxL2q5bg5pLtHiKg_qStSJ88M/edit#gid=824923779)):
+    ![Rating calculator screenshot](images/rating-calc.png)
 
-| Top 30 all-time scores | \+  | 20 high scores from current version |
-| :--------------------: | :-: | :---------------------------------: |
-|   aka "Best 30/B30"    |     |          aka "New 20/N20"           |
+    Charts in the **Top 30** must be unique (only one entry per chart). You may have two difficulties of the same song in the Top 30, but not the same difficulty. Charts in **Recents** are not held to any such restrictions and as such you may fill the Recents section with multiple plays of the same chart. Recents are taken from the last **30** charts played and will be displaced either once a score with a higher rating is achieved or 30 new charts have replaced the pool.
 
-All individual charts must be **unique** across all rating charts. In other words, a high score on a chart that would contribute to your B50 would only count once.
+    !!! mitsuyoshi "Mitsuyoshi Tip!"
+        <strong id="mitsuyoshi-7">SSS "Rating Guard"</strong>
 
-The formula for determining the rating of an individual score is **unchanged**.
+        Another factor in the recents rule is that scores of rank SSS or above (of any difficulty) will **not** displace the recent 10, instead pushing out the oldest chart amongst the remaining 20 in the recents pool. This is why you usually do not drop rating on SSS scores as the developers anticipated it wouldn't be very player friendly. As soon as a non-SSS score is achieved, the normal rules apply and the oldest chart in recent 10 is displaced. Exceptions are possible.
 
 ## Gaining Rating
 

@@ -137,7 +137,9 @@ This article with the same name ([_Skill Floor, Skill Ceiling_](https://iidx.org
 
     In fact, I can! I've put together a mix of progression goals and task chart with fellow Chunithm player underjoy, and you can find it in the [Kamaitachi Chunithm Questline Tracker](https://chunithm.org/quests). It was designed to help players develop mastery and become well-rounded at all areas of the game, and it should provide an ample challenge to those seeking one.
 
-## Course Mode
+# Other Gamemodes
+
+## Class Certification/Course Mode
 
 Course mode is a mode where you play three predetermined or random charts in a row with a restriction on how much you can mess up. For example, a course may give you 100 "life", but each attack will deduct 1 life and each miss will deduct 2 life. Different courses will have different judgements and conditions. You pass the course by making it to the end and staying alive, upon which a **class badge** of the corresponding difficulty is added to your player card.
 
@@ -156,6 +158,8 @@ Courses are split up into difficulty by classes, ranging from I (one) to V (five
 ## World's End
 
 World's End charts are an entirely separate set of charts that have wacky mechanics, such as making all of the notes tiny, making all of the patterns way more dense, adding in damage notes, and more. The difficulty number is replaced with a specific Japanese kanji character and a number of stars from 1-5 to distinguish what kind of gimmick will feature in the chart. They do not affect your rating and are a "for fun" mode, although some of them make an appearance in the INF class courses.
+
+World’s End charts require a **ticket** to play.
 
 A list of World's End Markings are given below:
 
@@ -197,9 +201,53 @@ Credit to @axelparkster on discord for English definitions.
 
 For more information about World's End charts, check the JP [wiki](https://gamerch.com/chunithm/entry/487368).
 
-## Overpower (OP)
+## Online Battle
+
+Online Battle (全国対戦) was introduced in **NEW**, and is a matchmaking mode where up to 4 players are placed in lobbies against other players of similar skill level and compete against each other across 4 songs; each player picks their own chart. 
+
+![Online Battle screen](images/online-battle.png)
+
+Winning in online battle results in your "Battle Rank" increasing, which is shown on your nameplate and can also impact other cosmetic items like titles. Online Battle is only implemented in the JP server.
+
+## Unlock Challenge
+
+VERSE: Unlock Challenges are a form of task track where players must clear charts while maintaining a limited lifebar. As soon as the lifebar falls to zero, the attempt immediately ends and the player is sent to the score screen. Clearing the unlock challenge unlocks the chart for normal play.
+
+Non-justice-critical judgements will all decrease the lifebar by varying amounts, and the clear requirements are relaxed at various points in time after the unlock challenge is introduced.
+
+| Judgement        | Penalty  |
+| ---------------- | -------- |
+| Justice          | -1 life  |
+| Attack           | -2 life  |
+| Miss             | -5 life  |
+
+The lifebar starts at 10 life, then proceeds to 50 life and finally 150 life.
+
+By default, an unlock challenge can only be attempted once per credit, and additional tries can be given by using various tickets.
+
+![Unlock Challenge graphic](images/unlock-challenge.png)
+
+More info can be found on the [jp wikiwiki](https://wikiwiki.jp/chunithmwiki/UNLOCK%20CHALLENGE).
+
+## Linked VERSE
+
+X-VERSE: Linked VERSE is Chunithm's special 10 year anniversary "throwback" system present in X-VERSE and X-VERSE-X. Mechanically, it introduces a hidden "sequel song" to a boss chart from each prior themed version of the game, and players must fulfill hidden unlock conditions followed by a challenge run to unlock these songs.
+
+Upon completion of the version named maps (ep. ORIGIN/AIR/STAR etc.), a Gate will appear in the Linked VERSE folder. Players must also complete hidden objectives to receive an Access Card, which will then allow players to attempt to unlock the attached song.
+
+For details on unlock conditions and tips to optimize unlocking Linked VERSE, check out the [Chunithm Linked VERSE Unlock Guide spreadsheet](https://docs.google.com/spreadsheets/d/1j7kmCR0-R5W3uivwkw-6A_eUCXttnJLnkTO0Qf7dya0/edit?usp=sharing)!
+
+![Linked VERSE graphic](images/linked-verse.png)
+
+More info can be found on the [jp wikiwiki](https://wikiwiki.jp/chunithmwiki/Linked%20VERSE).
+
+# Overpower and Possession
+
+## Overpower
 
 Overpower (OP) is an indicator that was introduced in Chunithm STAR PLUS, and it acts as a sort of "global completion marker" for the game. It is calculated from the best score on each chart compared to the theoretical maximum.
+
+The Overpower indicator can be toggled in **settings**.
 
 ![Overpower indicator](images/overpower.png)
 

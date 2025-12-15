@@ -110,13 +110,13 @@ The conditions for achieving rating possession are as follows:
 | Platinum    | 16.75 or above |   SS or above    |   **99.00**%    |
 | **Rainbow** | 17.00 or above | **SSS** or above |   99\.**50**%   |
 
-| VERSE~X-VERSE |                    |              |                 |
-| ------------- | :----------------: | :----------: | :-------------: |
-| **Colour**    |     **Rating**     |   **Rank**   | **OP required** |
-| Silver        | **16.00** or above |   S or above |       N/A       |
-| Gold          | **16.00** or above |  S+ or above |      97.5%      |
-| Platinum      | **16.00** or above | SS or above  |     99.00%      |
-| **Rainbow**   | **16.00** or above | SSS or above |     99.50%      |
+| VERSE~X-VERSE-X |                    |              |                 |
+| --------------- | :----------------: | :----------: | :-------------: |
+| **Colour**      |     **Rating**     |   **Rank**   | **OP required** |
+| Silver          | **16.00** or above |   S or above |       N/A       |
+| Gold            | **16.00** or above |  S+ or above |      97.5%      |
+| Platinum        | **16.00** or above | SS or above  |     99.00%      |
+| **Rainbow**     | **16.00** or above | SSS or above |     99.50%      |
 
 _Credit to beerpsi for finding accurate possession thresholds and values_
 

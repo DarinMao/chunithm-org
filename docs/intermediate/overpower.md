@@ -59,7 +59,7 @@ Rating possession is an indicator that was introduced in Chunithm AMAZON PLUS. A
 | Silver          | ![Silver possession indicator](images/pos-silver.png){: style="width: 300px"}   |
 | Gold            | ![Gold possession indicator](images/pos-gold.png){: style="width: 300px"}       |
 | Platinum        | ![Platinum possession indicator](images/pos-plat.png){: style="width: 300px"}   |
-| Rainbow         | ![Rainbow possession indicator](images/pos-rainbow.png){: style="width: 300px"} |
+| Rainbow         | ![Rainbow possession indicator](images/pos-rainbow2.png){: style="width: 300px"} |
 
 The conditions for achieving rating possession are as follows:
 

@@ -94,6 +94,8 @@ Special thanks to kyleforkbomb for hosting and helping port the English Chunithm
 | VERSE         | [Wiki](https://wikiwiki.jp/chunithmwiki/CHUNITHM%20VERSE%20%E6%A5%BD%E6%9B%B2%E4%B8%80%E8%A6%A7%28%E5%AE%9A%E6%95%B0%E9%A0%861%29) (wikiwiki)/[Google Sheets](https://docs.google.com/spreadsheets/d/1NTGkrOoLdzOoaYyz7d4vDT3cW2Q6lZfoc1nvd7nlNLE/edit?gid=262760047#gid=262760047)                                                                              |
 | X-VERSE       | [Wiki](https://wikiwiki.jp/chunithmwiki/CHUNITHM%20X-VERSE%20%E6%A5%BD%E6%9B%B2%E4%B8%80%E8%A6%A7%28%E5%AE%9A%E6%95%B0%E9%A0%861%29) (wikiwiki)/[Google Sheets](https://docs.google.com/spreadsheets/d/1wewufZZ9iOy-3To6ITc_vwbUpfMhEVlGUKAmse2JgSs/edit?usp=sharing)                                                                              |
 | X-VERSE-X     | [Wiki](https://wikiwiki.jp/chunithmwiki/CHUNITHM%20X-VERSE-X%20%E6%A5%BD%E6%9B%B2%E4%B8%80%E8%A6%A7%28%E5%AE%9A%E6%95%B0%E9%A0%861%29) (wikiwiki)/[Google Sheets](https://docs.google.com/spreadsheets/d/1UgalRHELZBe4Wb4yKXffBJ6juj57bHgSdEWphCDsByE/edit?gid=1971412612#gid=1971412612)                                                                              |
+| Mate          | [Wiki](https://wikiwiki.jp/chunithmwiki/CHUNITHM%20Mate%20%E6%A5%BD%E6%9B%B2%E4%B8%80%E8%A6%A7%28%E5%AE%9A%E6%95%B0%E9%A0%861%29) (wikiwiki)/[Google Sheets](https://docs.google.com/spreadsheets/d/1XK3_hjMlJk1YXLMRbSNAnZdVrGh986Qp5X0rXc2qSHQ/edit?gid=1233839899#gid=1233839899)                                                                              |
+
 
 ## Changelog
 
@@ -134,3 +136,4 @@ Special thanks to kyleforkbomb for hosting and helping port the English Chunithm
 - 2025-10-08: corrected Possession values
 - 2025-10-26: added links to ddrlevelasian’s CHUNITHM Possession Guide
 - 2025-12-19: addition/reorganization of ‘Other Gamemodes’, added ‘Titles’, ‘Stage Plate/Background’, X-VERSE-X updates
+- 2026-07-06: update of current version to Chunithm Mate, added Mate/Mate Room information

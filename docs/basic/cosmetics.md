@@ -90,4 +90,8 @@ X-VERSE: the stage background can now be changed in CHUNITHM-NET after an applic
 
 ![Stage Plate graphic](images/stage-plate.png)
 
+## Mate/Mate Room
 
+Mate: L2D animated navigators are added as “Mates”, and act as the announcers for the score result screen. Players can access the Mate Room in **User Box** (end of credit) to rank up the affection level of the Mate in return for cosmetic rewards such as titles and nameplates.
+
+![Mate Room graphic](images/Mate_Mate-room.png)

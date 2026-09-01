@@ -29,7 +29,7 @@ Keep an eye out for the icon below for _Mitsuyoshi Tips_, which serve to highlig
 - M8: [A comprehensive-ish set of goals to improve at all stages of progression](intermediate/rating.md#mitsuyoshi-8)
 - M9: ["Halfing" air patterns](advanced/patterns.md#mitsuyoshi-9)
 
-Have questions, want to see a specific section added, or want to contribute? DM me on Discord: @lighthot
+Have questions, want to see a specific section added, or want to contribute? DM me on Discord: @codex_121
 
 ## Acknowledgements
 
